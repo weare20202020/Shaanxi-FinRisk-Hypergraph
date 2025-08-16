@@ -1,3 +1,46 @@
+# 📖 Shaanxi Province Financial Risk Monitoring & Early Warning System
+## (陕西省金融风险监测与预警系统)
+
+## 🌍 Overview (项目简介)
+
+This project leverages **Knowledge Hypergraph technology** combined with **Large Language Models (LLMs)** and **Twin Neural Networks** to construct a regional financial risk early-warning model.
+
+Through large-scale financial data cleaning and entity disambiguation, we successfully built a three-dimensional network of **"multi-entity – hyper-relation – attribute value"**, covering **5,000+ enterprises and financial institutions** in Shaanxi Province.
+
+It also enables **dynamic visualization of financial risk contagion pathways**.
+
+The project is carried out under a **provincial-level philosophy and social sciences research program**, led by a senior professor, with the aim of providing **forward-looking risk monitoring and early-warning support** for regulators and enterprises in Shaanxi Province.
+
+---
+
+本项目基于**知识超图技术**，结合**大语言模型 (LLM)** 与**孪生神经网络**，构建区域金融风险预警模型。
+
+通过对海量金融数据的清洗与实体消歧，成功建立**"多实体–超关系–属性值"三维网络结构**，覆盖陕西省内**5000+ 家企业和金融机构**，并实现了**金融风险传染路径的动态可视化展示**。
+
+该项目作为**省级哲学社会科学研究专项**，由专业教授带领完成，旨在为陕西省金融监管部门和企业提供**前瞻性的风险监测与预警支持**。
+
+## 🚀 Key Features (技术特性)
+
+- **Knowledge Hypergraph Modeling (知识超图建模)**：Captures complex relations among enterprises, financial institutions, industries, and cities
+- **LLM-driven Data Cleaning (大语言模型驱动的数据清洗)**：Automates financial text and unstructured data cleaning & entity disambiguation
+- **Twin Neural Network (孪生神经网络)**：For entity similarity recognition and risk contagion path inference
+- **Interactive Visualization (交互式可视化)**：Supports node dragging, risk chain tracing, and dynamic highlighting
+
+## 📊 Research & Application Value (研究与应用价值)
+
+- **Risk Early-Warning (风险预警)**：Provides real-time dynamic monitoring for regulators
+- **Decision Support (决策支持)**：Visualizes financial risk contagion chains in an intuitive way
+- **Academic Contribution (科研价值)**：Promotes cross-disciplinary research on knowledge hypergraphs and financial risk management
+- **Practical Applications (实际应用)**：Can be extended to banking, securities, insurance, and other financial risk management domains
+
+## 🛠️ Deployment Guide (部署说明)
+
+*[Deployment instructions to be added]*
+
+---
+
+*This project represents a significant advancement in regional financial risk management through the integration of cutting-edge AI technologies and comprehensive data analysis.*
+
 # 陕西超图项目部署指南
 
 ## 📋 项目简介
